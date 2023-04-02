@@ -1,0 +1,26 @@
+/* tag selectors */
+
+
+img{
+    height: 300px;
+    width: 460px;
+}
+
+
+/* class selectors */
+.imagename{
+    font-size: 1.5rem;
+    font-weight: bold;
+    color:grey ;
+    text-align: center;
+}
+
+/* id selectors */
+#topic{
+    font-size: 3rem;
+    font-weight: bolder;
+    color: #2b2d2f;
+    text-align: center;
+    margin-top: 10px;
+    /* margin-bottom: 50px; */
+}
